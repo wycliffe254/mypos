@@ -1,3 +1,19 @@
+##All Rights Reserved License
+
+Copyright (c) 2025 Wycliffe Kamba.
+
+This software and associated documentation files (My Duka) are the exclusive property of Wycliffe Kamba.
+
+Permission is NOT granted to any person to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software, in whole or in part, without explicit prior written permission from the copyright holder.
+
+Unauthorized use of this software is strictly prohibited and may be punishable by law.
+
+For licensing inquiries, please contact: wycliffekamba81@gmail.com
+
+All rights reserved.
+
+
+##Add-ons
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +80,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
